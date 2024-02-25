@@ -1,0 +1,6 @@
+project
+
+# Scala / SBT related stuff
+sbt 
+target
+test_run_dir
